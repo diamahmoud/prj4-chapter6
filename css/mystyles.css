@@ -1,0 +1,54 @@
+@charset "UTF-8";
+header, footer {
+	background: #688DA9;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.btn-primary{
+	margin-left: 40px
+}
+
+
+.form-group {
+	 padding-left: 40px;
+	padding-right: 40px;
+}
+
+.h3 {
+	align-content: center 
+}
+
+.col-lg-3 {
+    align-content: center;
+  
+}
+
+.row {
+    align-content: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+footer a { 
+display: inline-block;
+background: #18456C; 
+color: white;
+padding: 20px;
+text-decoration: none;
+margin: 20px;
+}
+
+.section-border {
+border: solid medium #18456C; 
+padding: 20px;
+margin: 20px 0;
+}
+
+.content-wrap {
+width: 700px;
+margin: 0 auto;
+}
